@@ -6,4 +6,4 @@
 - Play/Pause
 - Search
 
-Currently stable
+Currently stable on Android
