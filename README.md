@@ -4,6 +4,6 @@
 - Background playback
 - Track list
 - Play/Pause
-- Search
+- Track position seeking
 
 Currently stable on Android
