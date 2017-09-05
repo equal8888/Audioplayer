@@ -6,4 +6,4 @@
 - Track position seeking
 - Background playback
 
-Currently stable on Android
+This player is developed for Flac file format in mind.
