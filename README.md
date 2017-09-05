@@ -6,4 +6,4 @@
 - Track position seeking
 - Background playback
 
-This player is developed for Flac files
+Tested on android. This player is developed for Flac audiofiles.
