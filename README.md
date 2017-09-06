@@ -1,6 +1,6 @@
 # React Native Audioplayer
 
-- Automatic tracksearch on app startup
+- Automatic music file search on app startup
 - Track list
 - Play/Pause
 - Track position seeking
